@@ -24,3 +24,15 @@ Controls
 
 Notes
 - High score is saved to `highscore.txt` in the project folder.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
