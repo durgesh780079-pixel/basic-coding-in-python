@@ -31,8 +31,13 @@ Notes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
