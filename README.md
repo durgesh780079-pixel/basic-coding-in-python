@@ -66,5 +66,14 @@ Notes
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0189-rotate-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/durgesh780079-pixel/basic-coding-in-python/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
